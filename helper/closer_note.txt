@@ -1,0 +1,1 @@
+sudo taskkill /im telegram.exe/f

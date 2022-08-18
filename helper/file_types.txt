@@ -1,0 +1,8 @@
+docx|word docx
+xlsx|excel таблицы xlsx
+pptx|powerpoint презентации pptx
+txt|блокнот txt
+png|png картинка
+*|звёздочка все любой
+dir|папка каталог
+end

@@ -1,0 +1,4 @@
+g|chrome.exe|гугл google
+d|dota2.exe|дота dota доту
+t|Telegram.exe|телеграмм телегу telegram
+end

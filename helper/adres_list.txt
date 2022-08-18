@@ -1,0 +1,5 @@
+g|C:\Users\Public\Desktop\Google Chrome.lnk|гугл google
+n|E:\helper\note.txt|заметки
+h|E:\helper\comand_list.txt|команды хелп помощь
+m|C:\Users\Public\Desktop\Micro-Cap 12 (64-Bit).lnk|микрокап micro-cap
+end
